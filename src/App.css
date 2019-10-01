@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  color: #333333;
+}
+
+.sortable {
+  list-style-type: none;
+  margin: 0 0 20px;
+  padding: 0;
+}
+
+.sortable-element {
+  font-family: sans-serif;
+  display: inline-block;
+  background: #006098;
+  color: #ffffff;
+  padding: 10px 15px;
+  margin: 0 2px;
+  border-radius: 10px;
+  cursor: pointer;
+}
